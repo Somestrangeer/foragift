@@ -1,0 +1,22 @@
+# Зависимости
+node_modules/
+.npm
+
+# Сборка
+build/
+dist/
+
+# Файлы окружения
+.env
+.env.local
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Большие медиафайлы (укажите ваши форматы)
+*.mp4
+*.mov
+*.avi
+*.zip
+*.rar
