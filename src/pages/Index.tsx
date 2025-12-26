@@ -307,7 +307,7 @@ const Index = () => {
         <MemorySection 
           title="Приколюхи"
           year="2022"
-          imagePath="22/IMG_0785.jpg"
+          imagePath="22/IMG_0785.JPG"
           imagePosition="left"
           className="bg-background/5"
         >
