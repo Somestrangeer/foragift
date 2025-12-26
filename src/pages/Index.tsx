@@ -452,7 +452,7 @@ const Index = () => {
         <MemorySection 
           title="Начало самого милого года"
           year="2024"
-          imagePath="24/2024-06-20 1-18-56 AM.jpg"
+          imagePath="24/имм.JPG"
           imagePosition="left"
           className="bg-background/5"
         >
