@@ -41,7 +41,6 @@ export const VideoSection = ({
               <div className="aspect-video bg-muted rounded-lg overflow-hidden group-hover:scale-105 transition-transform duration-500">
                 <video className="w-full h-full object-cover" src={`/${imagePath}`} // убрали /public 
                 controls // добавляет кнопки управления
-                muted // для автозапуска (если нужно)
                 preload="metadata" // загружает метаданные
               ></video>
               </div>
