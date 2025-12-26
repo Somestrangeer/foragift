@@ -368,7 +368,7 @@ const Index = () => {
         <MemorySection 
           title="Снова Москва"
           year="2023"
-          imagePath="23/IMG_4165.jpg"
+          imagePath="23/IMG_4165.JPG"
           imagePosition="left"
           className="bg-background/5"
         >
@@ -381,7 +381,7 @@ const Index = () => {
         <MemorySection 
           title="Просто милое фото с Викой"
           year="2023"
-          imagePath="23/IMG_4881.jpg"
+          imagePath="23/IMG_4881.JPG"
           imagePosition="left"
           className="bg-background/5"
         >
@@ -394,7 +394,7 @@ const Index = () => {
         <MemorySection 
           title="После клуба"
           year="2023"
-          imagePath="23/IMG_4162.jpg"
+          imagePath="23/IMG_4162.JPG"
           imagePosition="left"
           className="bg-background/5"
         >
@@ -452,7 +452,7 @@ const Index = () => {
         <MemorySection 
           title="Начало самого милого года"
           year="2024"
-          imagePath="24/2024-06-20 1-18-56 AM.jpg"
+          imagePath="24/2024-06-20 1-18-56 AM.JPG"
           imagePosition="left"
           className="bg-background/5"
         >
