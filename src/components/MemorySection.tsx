@@ -45,7 +45,7 @@ export const MemorySection = ({
           <div className={`${imagePosition === 'right' ? 'lg:col-start-2' : ''}`}>
             <Card className="p-6 bg-gradient-card backdrop-blur-sm border-border/20 shadow-romantic hover:shadow-romantic/80 transition-all duration-500 group">
               <div className="aspect-video bg-muted rounded-lg flex items-center justify-center group-hover:scale-105 transition-transform duration-500">
-                <img src={`/${encodeURIComponent(imagePath)}`} alt="Описание фото" />
+                <img src={`/$imagePath}`} alt="Описание фото" />
               </div>
             </Card>
           </div>
