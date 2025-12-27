@@ -624,7 +624,7 @@ const Index = () => {
         <VideoSection 
           title="Первый наш новый год, где ты навел себе адскую колыбельную и ушел от нас всех"
           year="2020"
-          imagePath="20/VID_20210101_035232.mp4"
+          imagePath="https://player.cloudinary.com/embed/?cloud_name=dbq1afjtu&public_id=VID_20210101_035232_w1ziwi&profile=cld-default"
           className="bg-background/5"
         >
         </VideoSection>
