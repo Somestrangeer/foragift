@@ -626,6 +626,7 @@ const Index = () => {
           year="2020"
           imagePath="https://player.cloudinary.com/embed/?cloud_name=dbq1afjtu&public_id=VID_20210101_035232_w1ziwi&profile=cld-default"
           className="bg-background/5"
+          crossorigin="anonymous"
         >
         </VideoSection>
 
