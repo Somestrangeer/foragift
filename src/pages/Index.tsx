@@ -624,7 +624,7 @@ const Index = () => {
         <VideoSection 
           title="Первый наш новый год, где ты навел себе адскую колыбельную и ушел от нас всех"
           year="2020"
-          imagePath="https://player.cloudinary.com/embed/?cloud_name=dbq1afjtu&public_id=VID_20210101_035232_w1ziwi&profile=cld-default"
+          imagePath="https://res.cloudinary.com/dbq1afjtu/video/upload/VID_20210101_035232_w1ziwi.mp4"
           className="bg-background/5"
           crossorigin="anonymous"
         >
@@ -633,7 +633,7 @@ const Index = () => {
         <VideoSection 
           title="Чищу твой пк"
           year="2021"
-          imagePath="21/IMG_8290.MOV"
+          imagePath="https://res.cloudinary.com/dbq1afjtu/video/upload/IMG_8290_qkukxe.MOV"
           className="bg-background/5"
         >
         </VideoSection>
