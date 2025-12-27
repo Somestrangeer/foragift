@@ -39,7 +39,7 @@ export const VideoSection = ({
           <div>
             <Card className="p-6 bg-gradient-card backdrop-blur-sm border-border/20 shadow-romantic hover:shadow-romantic/80 transition-all duration-500 group">
               <div className="aspect-video bg-muted rounded-lg overflow-hidden group-hover:scale-105 transition-transform duration-500">
-                <video className="w-full h-full object-cover" src={`/${imagePath}`} // убрали /public 
+                <video className="w-full h-full object-cover" src={`${imagePath}`} // убрали /public 
                 controls // добавляет кнопки управления
                 preload="metadata" // загружает метаданные
               ></video>
