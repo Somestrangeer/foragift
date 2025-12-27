@@ -641,7 +641,7 @@ const Index = () => {
         <VideoSection 
           title="А это был мой подарок тебе на сколько-то там лет"
           year="2022"
-          imagePath="22/-6535063020870842021.mp4"
+          imagePath="https://res.cloudinary.com/dbq1afjtu/video/upload/-6535063020870842021_e4hnfo.MP4"
           className="bg-background/5"
         >
         </VideoSection>
@@ -649,7 +649,7 @@ const Index = () => {
         <VideoSection 
           title="Танцуешь в Москве"
           year="2022"
-          imagePath="22/IMG_4179.MOV"
+          imagePath="https://res.cloudinary.com/dbq1afjtu/video/upload/IMG_4179_yisub4.MOV"
           className="bg-background/5"
         >
         </VideoSection>
@@ -657,7 +657,7 @@ const Index = () => {
         <VideoSection 
           title="Первых поход в клуб с Катей и Аней"
           year="2023"
-          imagePath="23/RPReplay_Final1676851992.MP4"
+          imagePath="https://res.cloudinary.com/dbq1afjtu/video/upload/RPReplay_Final1676851992_oyxk4y.MOV"
           className="bg-background/5"
         >
         </VideoSection>
@@ -665,7 +665,7 @@ const Index = () => {
         <VideoSection 
           title="Тот же вечер в прайде"
           year="2023"
-          imagePath="23/2023-10-29 1-17-41 PM.MOV"
+          imagePath="https://res.cloudinary.com/dbq1afjtu/video/upload/2023-10-29_1-17-41_PM_w9wbhd.MOV"
           className="bg-background/5"
         >
         </VideoSection>
@@ -673,7 +673,7 @@ const Index = () => {
         <VideoSection 
           title="Вся семья в сборе"
           year="2024"
-          imagePath="24/2024-06-19 9-40-06 PM.MP4"
+          imagePath="https://res.cloudinary.com/dbq1afjtu/video/upload/2024-06-19_9-40-06_PM_ify8lz.MP4"
           className="bg-background/5"
         >
         </VideoSection>
@@ -681,7 +681,7 @@ const Index = () => {
         <VideoSection 
           title="Хном взбирается"
           year="2024"
-          imagePath="24/2024-07-25 7-07-13 PM.MOV"
+          imagePath="https://res.cloudinary.com/dbq1afjtu/video/upload/2024-07-25_7-07-13_PM_gjcbgg.MOV"
           className="bg-background/5"
         >
         </VideoSection>
@@ -689,15 +689,15 @@ const Index = () => {
         <VideoSection 
           title="Кормим белок в Ессентуках"
           year="2024"
-          imagePath="24/2024-07-26 4-01-58 PM.MOV"
+          imagePath="https://res.cloudinary.com/dbq1afjtu/video/upload/Untitled_video_-_Made_with_Clipchamp_nwbjnc.MP4"
           className="bg-background/5"
         >
         </VideoSection>
 
         <VideoSection 
-          title="Рпортаж с Машука"
+          title="Репортаж с Машука"
           year="2024"
-          imagePath="24/IMG_0681.MOV"
+          imagePath="https://res.cloudinary.com/dbq1afjtu/video/upload/IMG_0681_s0vywp.MOV"
           className="bg-background/5"
         >
         </VideoSection>
@@ -705,7 +705,7 @@ const Index = () => {
         <VideoSection 
           title="Ждем такси на кладбище"
           year="2025"
-          imagePath="25/IMG_4316.MOV"
+          imagePath="https://res.cloudinary.com/dbq1afjtu/video/upload/IMG_4316_o3enhd.MOV"
           className="bg-background/5"
         >
         </VideoSection>
@@ -713,7 +713,7 @@ const Index = () => {
         <VideoSection 
           title="И то, как мы завершили 2025 год!"
           year="2025"
-          imagePath="25/2025-01-04 2-30-33 PM.MP4"
+          imagePath="https://res.cloudinary.com/dbq1afjtu/video/upload/2025-01-04_2-30-33_PM_galt0e.MP4"
           className="bg-background/5"
         >
         </VideoSection>
